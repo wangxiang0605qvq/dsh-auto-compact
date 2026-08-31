@@ -1,7 +1,7 @@
 {
   "name": "@deepseek-ai/dsh-auto-compact",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
@@ -11,6 +11,7 @@
   "peerDependencies": {
     "@deepseek-ai/dsh-tools": "^0.1.0-rc.6",
     "@deepseek-ai/dsh-compaction": "^0.1.0-rc.6",
+    "@deepseek-ai/dsh-llm": "^0.1.0-rc.6",
     "@deepseek-ai/cordis": "^4.0.1"
   }
 }
